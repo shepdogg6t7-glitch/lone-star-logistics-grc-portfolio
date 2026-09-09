@@ -30,4 +30,4 @@ All deliverables reference **NIST CSF v2.0** core functions (Govern, Identify, P
 
 [A short paragraph on your background and what draws you to GRC/cybersecurity — happy to help draft this once the rest of the repo is in place.]
 
-**Contact:** [LinkedIn] · [Email]
+**Contact:** [LinkedIn](https://www.linkedin.com/in/kelvin-shepherd-423a7a15/) · [KelvinShepherd@gmail.com](mailto:KelvinShepherd@gmail.com)
