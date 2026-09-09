@@ -28,6 +28,14 @@ All deliverables reference **NIST CSF v2.0** core functions (Govern, Identify, P
 
 ## About Me
 
-[A short paragraph on your background and what draws you to GRC/cybersecurity — happy to help draft this once the rest of the repo is in place.]
+I'm building toward a career in GRC and cybersecurity, with a focus on 
+bridging policy with technical reality — this portfolio reflects that 
+approach. I'm drawn to the field because compliance frameworks like 
+NIST CSF only matter if they're actually enforced and verified on the 
+ground, which is why every deliverable here pairs a policy or risk 
+document with a technical artifact that proves or tests it. I built 
+the underlying network in Cisco Packet Tracer, diagnosed and documented 
+a real routing/DHCP issue in it, then worked backward to show how that 
+incident would be handled in a formal GRC context.
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/kelvin-shepherd-423a7a15/) · [KelvinShepherd@gmail.com](mailto:KelvinShepherd@gmail.com)
