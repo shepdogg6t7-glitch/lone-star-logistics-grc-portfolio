@@ -38,4 +38,4 @@ the underlying network in Cisco Packet Tracer, diagnosed and documented
 a real routing/DHCP issue in it, then worked backward to show how that 
 incident would be handled in a formal GRC context.
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/kelvin-shepherd-423a7a15/) · [KelvinShepherd@gmail.com](mailto:KelvinShepherd@gmail.com)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/kelvin-shepherd-423a7a15/) · <KelvinShepherd@gmail.com>
